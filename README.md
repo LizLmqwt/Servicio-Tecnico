@@ -50,7 +50,8 @@ permitiendo realizar operaciones desde un menú en consola.
 
 \## 👨‍💻 Autores
 
-\- \[Tu Nombre] – Matrícula: XXXXX
+\- \[Richard Nelson Caisari Serrano] 
+
 
 
 
